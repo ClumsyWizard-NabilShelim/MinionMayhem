@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4725566364276295415
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 18775656147846516, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 20563658545563727, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 34d16a990bccf1649a9bbc4289298927, type: 3}
+    - target: {fileID: 20563658545563727, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308101808271922269, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5314218033650196768, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Name
+      value: Character-Minion-Base
+      objectReference: {fileID: 0}
+    - target: {fileID: 5314218033650196768, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5630249700371548965, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8690809143141733573, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Size.x
+      value: 0.5232153
+      objectReference: {fileID: 0}
+    - target: {fileID: 8690809143141733573, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Size.y
+      value: 0.14712438
+      objectReference: {fileID: 0}
+    - target: {fileID: 8690809143141733573, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.006442943
+      objectReference: {fileID: 0}
+    - target: {fileID: 8690809143141733573, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.067652345
+      objectReference: {fileID: 0}
+    - target: {fileID: 9004751277467257181, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 61
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5314218033650196768, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7381175718894981902}
+    - targetCorrespondingSourceObject: {fileID: 5314218033650196768, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 556591268217479262}
+  m_SourcePrefab: {fileID: 100100000, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+--- !u!1 &588688109521659863 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5314218033650196768, guid: 26ac0476d04d1c246a9b5a56878346cd, type: 3}
+  m_PrefabInstance: {fileID: 4725566364276295415}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7381175718894981902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588688109521659863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc8946e705e9693438b78feae4c87ea9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitEffect: {fileID: 8800869129036798051, guid: 9aff287e0cce2ab4a9353cdf447ee417, type: 3}
+  deathEffect: {fileID: 1507729147642584050, guid: 1a366e0634a461144981e1c602f8d8a5, type: 3}
+--- !u!114 &556591268217479262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588688109521659863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6cd31e4e3e1bca40ad971d3b3f7ec55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 650
+  safeDistance: 0.2
+  personalArea: 0.2
+  repulsionForce: 300
+  repulsiveLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  spawnEffect: {fileID: 7121046352848541134, guid: 37fe1ec1717eae0409fcae0601040aff, type: 3}
